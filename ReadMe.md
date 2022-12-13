@@ -9,6 +9,7 @@ The first decision was made after initially exploring the data set. I found that
 
 ## Question 3
 If I could only show them one visual I'd chose this table:
+
 ![Image](https://i.imgur.com/ekGYVa7.png)
 
 This matrix shows the correlation between feature inputs, as well as the output.
