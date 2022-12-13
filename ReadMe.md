@@ -2,6 +2,7 @@
 
 ## Question 1
 Results are in ./data/output.csv under the "InPlayProbability" Column
+
 The model predicts a 27.23% chance of a ball being in play, which compares well to the training data's 27.17% chance.
 
 ## Question 2
