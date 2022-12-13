@@ -19,7 +19,7 @@ What I would tell the pitcher:
 Using this table we can see how each factor of your pitches are related, as well as how it affects the outcome showing you that the most important thing to note is that in play probability is most affected by Vertical Break, then Spin Rate, then Horizontal Break, and lastly Velocity. As for the best area to improve in to decrease balls in play, I would suggest working on Spin Rate, while it doesn't have the biggest impact on outcome, it plays a role in how much your pitches break Horizontally and Vertically, leading to less balls in play.
 
 ## Question 4
-For further development of the model, I would like to look at how easy it is for the pitcher to change the inputs of the model. For example, a model might say increasing Velocity is the best way to decrease Balls in Play Rate, but, Velocity might be the hardest skill to increase for the given pitcher, increasing Spin Rate could have lower impact, but the pitcher might have an easier time increasing it. An additional idea would be looking at lefty/righty splits.
+For further development of the model, I would like to look at how easy it is for the pitcher to change the inputs of the model. For example, a model might say increasing Velocity is the best way to decrease Balls in Play Rate, but, Velocity might be the hardest skill to increase for the given pitcher, increasing Spin Rate could have lower impact, but the pitcher might have an easier time increasing it. An additional idea would be looking at lefty/righty splits instead of just righty vs righty.
 
 ## Question 5
 Code is included in the repository.
