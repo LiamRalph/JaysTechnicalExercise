@@ -13,7 +13,9 @@ If I could only show them one visual I'd chose this table:
 ![Image](https://i.imgur.com/ekGYVa7.png)
 
 This matrix shows the correlation between feature inputs, as well as the output.
-What I would tell the pitcher:
+
+###What I would tell the pitcher:
+
 Using this table we can see how each factor of your pitches are related, as well as how it affects the outcome showing you that the most important thing to note is that in play probability is most affected by Vertical Break, then Spin Rate, then Horizontal Break, and lastly Velocity. As for the best area to improve in to decrease balls in play, I would suggest working on Spin Rate, while it doesn't have the biggest impact on outcome, it plays a role in how much your pitches break Horizontally and Vertically, leading to less balls in play.
 
 ## Question 4
